@@ -1,4 +1,7 @@
 Before you run it：
+
+Make sure you have configured the python environment
+
 ```bash
 pip install requests beautifulsoup4 Pillow
 ```
